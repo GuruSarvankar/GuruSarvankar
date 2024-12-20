@@ -1,7 +1,8 @@
 <h3>Hello  👋</h3>
 
-My name is Gurunath Sarvankar, I am an experienced Web, UI and UX Designer based in Helsinki, Finland. Skilled in Figma, Adobe Suit, HTML, and CSS.
-Completed User Experience Certificate Course from Nielsen Norman Group and bachelor's degree in Commerce from Mumbai University.
+My name is Gurunath Sarvankar, and I am an experienced Web, UI, and UX Designer based in Helsinki, Finland. With a solid background in Figma, Adobe Suite, HTML, and CSS, I bring a keen eye for detail and a passion for creating intuitive and engaging user experiences.
+<br/><br/>
+I have completed a User Experience Certificate Course from Nielsen Norman Group and hold a bachelor's degree in Commerce from Mumbai University. Recently, I have also begun expanding my skill set with beginner-level knowledge of React.js, aiming to integrate dynamic and interactive elements into my designs.
 <br/><br/>
 <h3>Languages and Tools</h3>
 <div>
@@ -25,7 +26,7 @@ Completed User Experience Certificate Course from Nielsen Norman Group and bache
 </div>
 <br/><br/>
 🌱 <strong>I’m currently learning React JS</strong><br/><br/>
-💻 <strong>All my work available at my <a href="http://gurusarvankar.com/portfolio" target="_blank">Portfolio</a></strong>
+💻 <strong>All my work available at my <a href="http://gurusarvankar.com" target="_blank">Portfolio</a></strong>
 <!--
 **GuruSarvankar/GuruSarvankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
