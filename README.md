@@ -24,9 +24,10 @@ I'm a Freelance <span style="color:blue">Product, Web, UI/UX</span> Designer wit
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"  />&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS CSS"   alt="SASS CSS"  width="40" height="40"  />&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS"   alt="Tailwind CSS"  width="40" height="40"  />&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS"   alt="Tailwind CSS"  width="40" height="40"  />&nbsp;&nbsp;&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40" />&nbsp;&nbsp;&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C Language" alt="C Language"  width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"   alt="C++"  width="40" height="40"  />&nbsp;&nbsp;&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original-wordmark.svg" title="VS Code" alt="VS Code"  width="40" height="40" />&nbsp;&nbsp;&nbsp;
    
 </div>
@@ -41,7 +42,7 @@ I'm a Freelance <span style="color:blue">Product, Web, UI/UX</span> Designer wit
    - [View Project](http://gurusarvankar.com/urbanTummy.html)
 
 2. **Oriental Bank Vehicle Insurance**
-   - **Description**: <span style="color: #ff6347;">A web application designed for a major bank's loyalty program, enabling users to track and redeem their loyalty points.</span>
+   - **Description**: <span style="color: #ff6347;">This project is to design and develop a user-friendly website for Oriental Bank Vehicle Insurance that provides customers with a seamless experience in purchasing their vehicle insurance policies.</span>
    - **Technologies**:HTML5, CSS3, JavaScript, Bootstrap CSS, Figma, Adobe Illustrator
    - [View Project](http://gurusarvankar.com/OrientalInsurance.htm)
 
