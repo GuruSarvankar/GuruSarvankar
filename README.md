@@ -1,12 +1,11 @@
 <h3>Hi 👋</h3>
 
-I'm a Freelance <span style="color:blue">Product, Web, UI/UX</span> Designer with a passion for creating intuitive and beautiful user experiences. I have experience working as a design lead for major banks in India on their loyalty programs.
+I'm a Freelance <span style="color:blue">Product, UI/UX and Web</span> Designer with a passion for creating intuitive and beautiful user experiences. I have experience working as a design lead for major banks in India on their loyalty programs.
 
-
+- 💬 Ask me about UI/UX design, product design, and web design.
 - 🌱 I’m currently learning the MERN stack and DSA.
 - 🔭 I’m working on my personal portfolio website using React JS.
 - 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about UI/UX design, product design, and web design.
 - 📫 How to reach me: [gururefresh@gmail.com](mailto:gururefresh@gmail.com)
 - 💻 Know about my experiences: [My Portfolio](http://gurusarvankar.com)
 - ✨ Member of <strong>Aela Product Design</strong> A community-driven platform for product designers to collaborate, share insights, and improve their skills. Focused on fostering creativity and innovation in product design.
