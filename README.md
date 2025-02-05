@@ -32,7 +32,7 @@ I'm a Freelance <span style="color:blue">Product, UI/UX and Web</span> Designer 
 </div>
 
 
-
+<!--
 ## Projects
 
 1. **Urban Tummy**
@@ -44,8 +44,8 @@ I'm a Freelance <span style="color:blue">Product, UI/UX and Web</span> Designer 
    - **Description**: <span style="color: #ff6347;">This project is to design and develop a user-friendly website for Oriental Bank Vehicle Insurance that provides customers with a seamless experience in purchasing their vehicle insurance policies.</span>
    - **Technologies**:HTML5, CSS3, JavaScript, Bootstrap CSS, Figma, Adobe Illustrator
    - [View Project](http://gurusarvankar.com/OrientalInsurance.htm)
+-->
 
-<!--
 **GuruSarvankar/GuruSarvankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
